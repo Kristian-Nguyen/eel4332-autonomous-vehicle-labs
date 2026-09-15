@@ -116,7 +116,6 @@ and obstacle avoidance.
 ### 5. Block diagram from sensing to actuation
 
 ```text
-Sensors
   |
   v
 ROS 2 Topics
@@ -135,6 +134,7 @@ Controller
   |
   v
 Robot Wheels
+
 
 ## RViz2 Screenshot
 
