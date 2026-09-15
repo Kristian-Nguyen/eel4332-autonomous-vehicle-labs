@@ -113,9 +113,10 @@ The robot could react to old obstacle information.
 This could affect localization, costmaps, planning,
 and obstacle avoidance.
 
-### 5. Block diagram from sensing to actuation
+### 5. Block
 
 ```text
+Sensors
   |
   v
 ROS 2 Topics
@@ -134,7 +135,7 @@ Controller
   |
   v
 Robot Wheels
-
+```
 
 ## RViz2 Screenshot
 
