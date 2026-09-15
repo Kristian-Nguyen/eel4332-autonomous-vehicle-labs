@@ -135,3 +135,7 @@ Controller
   |
   v
 Robot Wheels
+
+## RViz2 Screenshot
+
+![RViz2 showing robot and sensor data](results/rviz_sensor_frames.png)
